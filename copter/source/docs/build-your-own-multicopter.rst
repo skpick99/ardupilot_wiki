@@ -57,7 +57,7 @@ Chinese Imports Good Deal / Bad Deal?
    from the primary source, in our case the Pixhawk from 3DRobotics.
 #. You will also want to get the electronic accessories (GPS,
    magentometer, telemetry and OSD if used) from 3DRobotics as well.
-#. If your going to do first person view, get a 3DRobotics FPV kit or a
+#. If you're going to do first person views, get a 3DRobotics FPV kit or a
    FatShark Attitude video goggle and transmitter.
 #. As for cameras, the GoPro Hero 3 and especially the Black is the one
    to get, because it is what everybody uses and it works well.
