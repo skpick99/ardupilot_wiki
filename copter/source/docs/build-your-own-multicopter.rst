@@ -93,7 +93,7 @@ Inexpensive, Ready To Fly Nano, Micro or Small QuadCopter
    learning.
 #. They are also a ton of fun, can easily and safely be used indoors and
    typically cost less than a hundred dollars.
-#. Importantly you will get you a much better understanding of how they
+#. Importantly you will get a much better understanding of how they
    work and of what you really want to do next.
 #. The `Traxxas QR1 QuadCopter <http://traxxas.com/products/models/heli/6208qr1>`__ is an
    inexpensive RTF Micro Quadcopter that is great for a first
